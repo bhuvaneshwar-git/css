@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: antiquewhite;
+    padding: 20px;
+}
+h1{
+    padding-bottom: 10px;
+}
+li{
+    display: inline;
+}
+.heading{
+    color: grey;
+    cursor: pointer;
+}
+.box{
+    border-color: black;
+    border-width: 0.5px;
+    border-style: solid;
+    width: 300px;
+}
+.products{
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    margin-left: 350px;
+}
+input:hover{
+    background-color: gray;
+    color: aliceblue;
+}
+.my-button{
+    padding: 10px;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 6.5px;
+    margin-top: 5px;
+}
+h2{
+    text-align: center;
+}
+.bottom-section{
+    background-color: black;
+    color: antiquewhite;
+    width: 100%;
+    height: 150px;
+    padding-top: 30px;
+}
+.submit{
+    padding: 12px;
+    background-color: yellow;
+    border: remove;
+    cursor: pointer;
+}
